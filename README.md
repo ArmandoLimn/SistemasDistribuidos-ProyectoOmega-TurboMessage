@@ -2,7 +2,7 @@
 
 ## TurboMessage
 
-- [X] En pocas palabras, **TurboMessage** debe replicar la funcionalidad de un servidor de e-mails con ciertas reestricciones descritas a continuación.
+- En pocas palabras, **TurboMessage** debe replicar la funcionalidad de un servidor de e-mails con ciertas reestricciones descritas a continuación.
 - [X] Para que el proyecto sea considerado, **TurboMessage** debe implementar todas sus comunicaciones usando **gRPC** y **Protocol Buffers**.
 - [X] Los usuarios podrán tener una **interfaz de consola**.
 - [X] Los usuarios deben tener un **menú de opciones** (en la consola) que permita acceder a todas las funcionalidades solicitadas.
