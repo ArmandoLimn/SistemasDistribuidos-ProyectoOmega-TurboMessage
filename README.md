@@ -1,4 +1,4 @@
-# Sistemas Distribuidos - [X] Proyecto Omega - [X] TurboMessage
+# Sistemas Distribuidos - Proyecto Omega - TurboMessage
 
 ## TurboMessage
 
