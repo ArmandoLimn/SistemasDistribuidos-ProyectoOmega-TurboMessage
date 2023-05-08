@@ -1,6 +1,6 @@
 # Sistemas Distribuidos - Proyecto Omega: TurboMessage
 
-> Elaborado por Armando Limón y Lorena Mondragón.
+> Elaborado por Armando Limón (**GitHub: ArmandoLimn**) y Lorena Mondragón (**GitHub: LorenaMondragon**).
 
 Repositorio que contiene el **Proyecto Omega: TurboMessage**, el cual replica la implementación de servidor/cliente de correos electrónicos programado en **Python**, y que utiliza **gRPC** y **Protocol Buffers** para asemejar su funcionalidad.
 
