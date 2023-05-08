@@ -221,7 +221,7 @@ with grpc.insecure_channel("localhost:65065") as channel:
       else:
          print(Cursor.FORWARD(25) + Style.BRIGHT + Fore.LIGHTRED_EX + "Error." + Fore.LIGHTBLACK_EX + " Limpie su bandeja de salida (Presione enter para continuar)." + Style.RESET_ALL)
          input()
-         main_menu()
+         main_menu(user)
 
    def delete_mail(user):
       print("\033[2J\033[1;1f") # Limpiar pantalla
